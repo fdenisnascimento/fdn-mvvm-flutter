@@ -1,6 +1,6 @@
-# darwin-mvvm README
+# FDN-mvvm README
 
-This is the README for your extension "darwin-mvvm". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "FDN-mvvm". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
